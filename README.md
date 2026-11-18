@@ -49,7 +49,8 @@ docker compose down -v
 
 ## Estructura del repositorio
 
-
+```
+.
 ├── README.md
 ├── docker-compose.yaml
 ├── consultas/
@@ -69,5 +70,5 @@ docker compose down -v
 │   ├── ventas_por_pais.csv
 │   └── ventas_por_precio.csv
 └── data/
-    ├── online_retail.csv
-
+    └── online_retail.csv
+```
