@@ -68,4 +68,6 @@ docker compose down -v
 │   ├── ventas_por_mes.csv
 │   ├── ventas_por_pais.csv
 │   └── ventas_por_precio.csv
-└── data/        (contiene online_retail.csv + online_retail_II.xlsx, excluido del listado)
+└── data/
+    ├── online_retail.csv
+
